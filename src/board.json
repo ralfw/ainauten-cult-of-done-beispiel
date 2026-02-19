@@ -1,0 +1,27 @@
+{
+  "columns": [
+    {
+      "name": "Ready",
+      "cards": [
+        { "title": "Einkaufen gehen" },
+        { "title": "Arzttermin vereinbaren" },
+        { "title": "Bericht schreiben" }
+      ]
+    },
+    {
+      "name": "In Progress",
+      "cards": [
+        { "title": "Präsentation vorbereiten" },
+        { "title": "Code Review durchführen" }
+      ]
+    },
+    {
+      "name": "Done",
+      "cards": [
+        { "title": "Meeting-Protokoll erstellen" },
+        { "title": "Datenbank migrieren" },
+        { "title": "Unit Tests schreiben" }
+      ]
+    }
+  ]
+}
